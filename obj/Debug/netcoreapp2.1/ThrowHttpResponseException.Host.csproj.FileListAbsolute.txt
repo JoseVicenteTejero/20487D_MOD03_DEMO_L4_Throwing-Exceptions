@@ -1,0 +1,17 @@
+c:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.csprojAssemblyReference.cache
+c:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.AssemblyInfoInputs.cache
+c:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.AssemblyInfo.cs
+c:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.csproj.CoreCompileInputs.cache
+c:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.RazorAssemblyInfo.cache
+c:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.RazorAssemblyInfo.cs
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\appsettings.json
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.deps.json
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.runtimeconfig.json
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.runtimeconfig.dev.json
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.dll
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.pdb
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.RazorTargetAssemblyInfo.cache
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.dll
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.pdb
+C:\20487D\AllFiles\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.genruntimeconfig.cache
